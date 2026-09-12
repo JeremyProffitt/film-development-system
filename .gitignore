@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# render caches produced by the drawing scripts
+_render/
+_views/
+_v[0-9]/
+
+# page previews
+tr*.png
+tt*.png
+ti*.png
+m8_*.png
+fp*.png
+pg*.png
